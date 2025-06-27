@@ -25,14 +25,14 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: cdb4db #80B3FF
-  primary-rgb: "45,215,185" #"128,179,255"
-  secondary: 48597a #FD6E8A
-  secondary-dark: 001846 #A2122F
+  primary: c5f9d7 #80B3FF
+  primary-rgb: "197,249,215" #"128,179,255"
+  secondary: f7d486 #FD6E8A
+  secondary-dark: f27a7d #A2122F
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Collins Israel
   location: Location
   social: Around the Web
   credits: Credits
@@ -42,11 +42,11 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/collins-israel/
   - title: github
-    url: https://collins106.github.io/cyber-portfolio
+    url: https://github.com/Collins106
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: collinsisrael1063@gmail.com
+  email-url: mailto:collinsisrael1063@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
