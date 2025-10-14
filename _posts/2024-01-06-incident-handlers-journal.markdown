@@ -1,7 +1,7 @@
 ---
 
 layout: default
-modal-id: 10
+modal-id: 4
 title: Investigate a Suspicious File Hash
 img: file-hash.png
 alt: VirusTotal malware analysis thumbnail
@@ -15,7 +15,7 @@ description: Investigated a malicious file hash using VirusTotal and mapped find
 ---
 
 layout: default
-modal-id: 11
+modal-id: 5
 title: Incident Final Report
 img: final-report.png
 alt: Incident response final report thumbnail
