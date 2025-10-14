@@ -21,3 +21,4 @@ alt: VirusTotal malware investigation thumbnail
 project-url: {{ site.baseurl }}/assets/pdfs/Investigate_a_suspicious_file_hash.pdf
 description: Conducted malware analysis using VirusTotal and the Pyramid of Pain framework. Investigated a phishing-related malicious file, extracted IoCs, mapped TTPs to MITRE ATT&CK, and assessed adversary pain points to strengthen detection capabilities.
 ---
+
