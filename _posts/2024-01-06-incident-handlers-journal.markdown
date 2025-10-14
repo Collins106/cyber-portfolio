@@ -14,5 +14,12 @@ description: Investigated a malicious file hash using VirusTotal and mapped find
 
 ---
 
+layout: default
+modal-id: 11
+title: Incident Final Report
+img: final-report.png
+alt: Incident response final report thumbnail
+project-url: /assets/pdfs/Final_report.pdf
+description: Authored a detailed incident response report documenting a real-world web application vulnerability exploitation that exposed 50,000 customer records. Outlined incident timeline, investigation steps, root cause analysis, and remediation recommendations aligned with best practices.
 
 ---
