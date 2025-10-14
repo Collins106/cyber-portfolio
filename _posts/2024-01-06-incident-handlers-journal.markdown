@@ -18,6 +18,6 @@ modal-id: 10
 title: Investigate a Suspicious File Hash
 img: {{ site.baseurl }}/img/virustotal.png
 alt: VirusTotal malware investigation thumbnail
-project-url: file:///Users/collinsisrael/Downloads/Incident%20handler's%20journal%20%20(1).pdf
-description: Malware investigation with VirusTotal mapped to Pyramid of Pain; extracted IoCs, mapped TTPs to MITRE ATT&CK, and assessed adversary pain points.
+project-url: {{ site.baseurl }}/assets/pdfs/Investigate_a_suspicious_file_hash.pdf
+description: Conducted malware analysis using VirusTotal and the Pyramid of Pain framework. Investigated a phishing-related malicious file, extracted IoCs, mapped TTPs to MITRE ATT&CK, and assessed adversary pain points to strengthen detection capabilities.
 ---
