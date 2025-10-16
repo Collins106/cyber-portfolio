@@ -7,7 +7,8 @@ alt: image-alt
 project-url: https://drive.google.com/drive/u/0/folders/1clioIlopJJ38cvYMis2FT5sg8TB9I4S4
 
 description: 🔍 Investigate a Suspicious File Hash
-
+---
+----
 Description:
 Performed an in-depth malware investigation using VirusTotal to analyze a suspicious file obtained from a phishing campaign. Leveraged the Pyramid of Pain to classify adversary indicators, including hashes, domains, and TTPs. Correlated findings with MITRE ATT&CK to identify threat actor behaviors and escalation patterns. Documented analysis workflows—covering hash evaluation, static inspection, and contextual threat intelligence enrichment—and delivered recommendations to strengthen malware defense and threat intelligence sharing.
 
