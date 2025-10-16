@@ -60,7 +60,9 @@ Incident response lifecycle documentation (NIST SP 800-61, ISO/IEC 27035)
 Network traffic capture and packet analysis (Wireshark, tcpdump)
 
 SOC playbook execution and phishing response
+
 Together, they showcase real investigative workflows, strong technical documentation skills, and a deep understanding of cybersecurity frameworks and defense mechanisms.
+
 ---
 
 
