@@ -8,49 +8,41 @@ project-url: https://drive.google.com/drive/u/0/folders/1clioIlopJJ38cvYMis2FT5s
 
 description: 🔍 Investigate a Suspicious File Hash
 
-File: [View Report (PDF)]({{ site.baseurl }}/assets/pdfs/Investigate%20a%20suspicious%20file%20hash.pdf)
 Description:
 Performed an in-depth malware investigation using VirusTotal to analyze a suspicious file obtained from a phishing campaign. Leveraged the Pyramid of Pain to classify adversary indicators, including hashes, domains, and TTPs. Correlated findings with MITRE ATT&CK to identify threat actor behaviors and escalation patterns. Documented analysis workflows—covering hash evaluation, static inspection, and contextual threat intelligence enrichment—and delivered recommendations to strengthen malware defense and threat intelligence sharing.
 
 🧸 Botium Toys: Scope, Goals, and Risk Assessment
 
-File: [View Report (PDF)]({{ site.baseurl }}/assets/pdfs/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report(1).docx.pdf)
 Description:
 Led a comprehensive risk assessment for Botium Toys’ IT infrastructure, identifying weaknesses in asset management, encryption, and disaster recovery. Applied the NIST Cybersecurity Framework (CSF) to assess compliance and resilience, assigned qualitative risk scores, and proposed actionable mitigation strategies—such as access control enhancement, encryption enforcement, and network segmentation—to strengthen security posture and regulatory alignment.
 
 🧾 Incident Final Report
 
-File: [View Report (PDF)]({{ site.baseurl }}/assets/pdfs/Final%20report.pdf)
 Description:
 Authored a detailed incident response report simulating a real-world web application compromise that resulted in data exposure. Documented each phase of the NIST SP 800-61 incident lifecycle—identification, containment, eradication, and recovery. Conducted root cause analysis, performed log correlation, and identified initial attack vectors. Provided actionable remediation and long-term prevention measures aligned with ISO/IEC 27035 standards.
 
 🧠 Incident Handler’s Journal
 
-File: [View Journal (PDF)]({{ site.baseurl }}/assets/pdfs/Incident%20handler's%20journal%20.pdf)
 Description:
 Compiled a structured Incident Handler’s Journal chronicling simulated cybersecurity incidents. Documented detection timelines, containment strategies, eradication activities, and recovery efforts. Highlighted the use of SIEM tools, malware sandboxes, and packet analyzers in identifying and neutralizing threats. Reflected on communication, coordination, and lessons learned to improve response efficiency and strengthen organizational defense readiness.
 
 📡 Tcpdump Network Capture Packet Data
 
-File: [View Report (PDF)]({{ site.baseurl }}/assets/pdfs/Tcpdump%20Network%20capture%20packet%20data.pdf)
 Description:
 Performed packet capture and network traffic analysis using tcpdump. Investigated HTTP, DNS, and ICMP packets to identify anomalies and suspicious behavior. Implemented BPF filters to isolate key traffic, interpreted payload data for forensic insights, and correlated findings with real-world intrusion patterns. Reinforced network analysis expertise crucial for SOC monitoring and network forensics.
 
 🎣 Phishing Incident Playbook Response
 
-File: [View Report (PDF)]({{ site.baseurl }}/assets/pdfs/Use%20a%20playbook%20to%20respond%20to%20a%20phishing%20incident.pdf)
 Description:
 Executed a phishing response playbook simulating Tier-1 SOC investigation. Analyzed malicious emails and attachments using VirusTotal and sandboxing tools. Extracted IoCs (URLs, IPs, hashes), logged evidence, and followed escalation protocols. Demonstrated an understanding of incident triage, threat containment, and SOC escalation workflows aligned with real-world operations.
 
 🧱 Vulnerability Assessment
 
-File: [View Report (PDF)]({{ site.baseurl }}/assets/pdfs/Vulnerability%20assessment%20report.pdf)
 Description:
 Conducted a vulnerability assessment of a public-facing database server using NIST SP 800-30 Rev. 1 methodology. Identified high-risk misconfigurations and outdated components. Evaluated likelihood and impact using a qualitative risk matrix and proposed prioritized remediation strategies including MFA, access control, and encryption. Enhanced organizational readiness through structured risk communication and mitigation planning.
 
 🔬 Wireshark Network Traffic Analysis Lab
 
-File: [View Report (PDF)]({{ site.baseurl }}/assets/pdfs/Wireshark_Network_Traffic_Analysis_Lab_Overview%20(1).pdf)
 Description:
 Performed deep packet inspection using Wireshark to analyze live network traffic. Applied capture filters to monitor TCP, DNS, HTTP, and ICMP protocols, examining headers and payloads for irregularities. Correlated findings to detect potential lateral movement or data exfiltration. Produced a comprehensive analytical summary improving visibility and strengthening intrusion detection awareness.
 
