@@ -8,6 +8,7 @@ project-url: https://drive.google.com/drive/u/0/folders/1clioIlopJJ38cvYMis2FT5s
 
 description: Performed hands-on cybersecurity projects spanning incident response, malware analysis, vulnerability assessment, and network forensics. Applied NIST and MITRE frameworks to detect, analyze, and remediate threats using tools like Wireshark, Tcpdump, and VirusTotal. Demonstrated technical depth in risk assessment, threat intelligence, and structured documentation—showcasing readiness for real-world SOC and cloud security operations.
 ---
+
 🔍 Investigate a Suspicious File Hash
 
 Description:
