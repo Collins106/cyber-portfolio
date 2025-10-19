@@ -5,7 +5,7 @@ title: SQL Query
 img: sql.png
 alt: image-alt
 
-project-url: (https://drive.google.com/drive/u/0/folders/1P9ijcIgQUgSYWDKsXoksxst2U9AttvIf)
+project-url: https://drive.google.com/drive/u/0/folders/1P9ijcIgQUgSYWDKsXoksxst2U9AttvIf
 
 description: This project demonstrates practical skills in both SQL and Linux system administration. Using a Linux environment, I created and managed a database, executed SQL queries to analyze datasets, and automated routine tasks through command-line operations. The project highlights my ability to navigate the Linux terminal efficiently, manage files and permissions, and apply SQL for data retrieval, filtering, and reporting. Together, these skills reflect a strong foundation in database management and operating system fundamentals—essential capabilities for cybersecurity and IT operations.
 ---
