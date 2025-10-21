@@ -9,3 +9,45 @@ project-url: https://drive.google.com/drive/u/0/folders/1P9ijcIgQUgSYWDKsXoksxst
 
 description: This project demonstrates practical skills in both SQL and Linux system administration. Using a Linux environment, I created and managed a database, executed SQL queries to analyze datasets, and automated routine tasks through command-line operations. The project highlights my ability to navigate the Linux terminal efficiently, manage files and permissions, and apply SQL for data retrieval, filtering, and reporting. Together, these skills reflect a strong foundation in database management and operating system fundamentals—essential capabilities for cybersecurity and IT operations.
 ---
+
+---
+
+ 🧩 1. Apply Filters to SQL Queries
+
+In this project, I used SQL to filter and investigate authentication logs and employee datasets to identify failed login attempts, suspicious activity, and department-specific information.
+I practiced writing queries using **AND**, OR, NOT, LIKE, IN, and date/time filters to isolate patterns in login behavior and employee records.
+I retrieved after-hours login failures, filtered geographic data, and performed targeted searches for specific departments like Marketing, Finance, and Sales.
+This project taught me how SQL logic can directly support security investigations — from tracking access anomalies to managing endpoint inventory — using structured data analysis.
+
+---
+
+🧭 2. Linux Directory Navigation and File Exploration for Security Operations
+
+This lab was focused on mastering Linux command-line operations for system and log exploration — a critical part of SOC workflows.
+I worked with commands like `pwd`, `ls`, `cd`, `cat`, and `head` to navigate directories, inspect log files, and retrieve important system data.
+By exploring files such as user reports and server logs, I learned how to quickly locate evidence, identify warnings, and verify user or system information.
+This exercise strengthened my confidence in Linux environments and built a foundation for **log analysis, incident response, and file system investigations — core skills for any cybersecurity analyst.
+
+---
+
+🧱 3. Linux Package Management and Network Analysis Tool Installation
+
+This project gave me hands-on experience managing and configuring security tools on a **Debian-based Linux system** using **APT (Advanced Package Tool)**.
+I installed and verified applications like Suricata (for network intrusion detection) and Tcpdump(for packet capture and analysis), practicing installation, removal, and validation commands through the terminal.
+By setting up and managing these tools, I gained practical insight into how security applications are maintained in production environments.
+This lab helped me understand network monitoring, **dependency management, and how to maintain tool reliability in SOC operations.
+
+---
+
+🧠 What These Labs Demonstrate
+
+Together, these projects show my ability to:
+
+* Write and optimize **SQL queries** for data-driven investigations
+* Navigate and analyze Linux file systems during incident triage
+* Install, configure, and verify network analysis tools for threat detection
+* Combine command-line precision with investigative thinking to support SOC-level operations
+
+They built the core of my technical fluency — bridging data analysis, system administration, and network defense — skills that I now apply in my more advanced cybersecurity projects.
+
+---
